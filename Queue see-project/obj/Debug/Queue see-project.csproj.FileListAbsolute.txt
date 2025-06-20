@@ -1,0 +1,111 @@
+C:\Users\vidat\Desktop\Queue see-project\Queue see-project\bin\Debug\Queue see-project.exe.config
+C:\Users\vidat\Desktop\Queue see-project\Queue see-project\bin\Debug\Queue see-project.exe
+C:\Users\vidat\Desktop\Queue see-project\Queue see-project\bin\Debug\Queue see-project.pdb
+C:\Users\vidat\Desktop\Queue see-project\Queue see-project\obj\Debug\Queue see-project.csproj.AssemblyReference.cache
+C:\Users\vidat\Desktop\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.logininterface.resources
+C:\Users\vidat\Desktop\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.mainmenu.resources
+C:\Users\vidat\Desktop\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.Properties.Resources.resources
+C:\Users\vidat\Desktop\Queue see-project\Queue see-project\obj\Debug\Queue see-project.csproj.GenerateResource.cache
+C:\Users\vidat\Desktop\Queue see-project\Queue see-project\obj\Debug\Queue see-project.csproj.CoreCompileInputs.cache
+C:\Users\vidat\Desktop\Queue see-project\Queue see-project\obj\Debug\Queue see-project.exe
+C:\Users\vidat\Desktop\Queue see-project\Queue see-project\obj\Debug\Queue see-project.pdb
+C:\Users\vidat\Desktop\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.maindatabase.resources
+C:\Users\vidat\Desktop\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.Patient_Check_in.resources
+C:\Users\vidat\Desktop\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.Docter_Interface.resources
+C:\Users\vidat\Desktop\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.WatingRoom.resources
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\Queue see-project.exe.config
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\Queue see-project.exe
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\Queue see-project.pdb
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\Google.Protobuf.dll
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\MySql.Data.dll
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Buffers.dll
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.IO.Pipelines.dll
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Memory.dll
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\ZstdSharp.dll
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\Google.Protobuf.pdb
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\Google.Protobuf.xml
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\MySql.Data.xml
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Buffers.xml
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.IO.Pipelines.xml
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Memory.xml
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue see-project.csproj.AssemblyReference.cache
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.Docter_Interface.resources
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.logininterface.resources
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.maindatabase.resources
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.mainmenu.resources
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.Patient_Check_in.resources
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.Properties.Resources.resources
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.WatingRoom.resources
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue see-project.csproj.GenerateResource.cache
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue see-project.csproj.CoreCompileInputs.cache
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue se.3927AD8C.Up2Date
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue see-project.exe
+C:\Users\janak\Desktop\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue see-project.pdb
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\Queue see-project.exe.config
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\Queue see-project.exe
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\Queue see-project.pdb
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\Google.Protobuf.dll
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\MySql.Data.dll
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Buffers.dll
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.IO.Pipelines.dll
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Memory.dll
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\ZstdSharp.dll
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\Google.Protobuf.pdb
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\Google.Protobuf.xml
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\MySql.Data.xml
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Buffers.xml
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.IO.Pipelines.xml
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Memory.xml
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue see-project.csproj.AssemblyReference.cache
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.Docter_Interface.resources
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.logininterface.resources
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.maindatabase.resources
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.mainmenu.resources
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.Patient_Check_in.resources
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.Properties.Resources.resources
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue_see_project.WatingRoom.resources
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue see-project.csproj.GenerateResource.cache
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue see-project.csproj.CoreCompileInputs.cache
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue se.3927AD8C.Up2Date
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue see-project.exe
+C:\Users\vidat\Documents\Queue see-project\Queue see-project\Queue see-project\Queue see-project\obj\Debug\Queue see-project.pdb
